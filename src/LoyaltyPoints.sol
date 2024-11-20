@@ -14,7 +14,6 @@ contract LoyaltyPoints is
 {
     string private _name;
     string private _symbol;
-    ILoyaltyPointHook[] private _hooks;
 
     bytes32 public constant MINTER_ROLE = keccak256("MINTER_ROLE");
 
