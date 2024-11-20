@@ -1,0 +1,1 @@
+# moso-loyalty-points-contract
